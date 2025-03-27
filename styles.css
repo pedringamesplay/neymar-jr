@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #46423f;
     --alto-contraste-fundo: #c4fac8;
-    --alto-contraste-texto: #020202;
+    --alto-contraste-texto: #509af0;
     --alto-contraste-link: #090a0a;
 }
 
@@ -80,7 +80,9 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('Santos_Logo-removebg-preview.png') top right no-repeat,
-        url('FCBarcelona.svg-removebg-preview\ \(1\).png') bottom left no-repeat;
+    url('Logo_PSG-removebg-preview.png') top left no-repeat,
+        url('FCBarcelona.svg-removebg-preview\ \(1\).png') bottom left no-repeat,
+        url('Al_Hilal_SFC_Logo.svg-removebg-preview.png') bottom right no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -103,7 +105,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #fdfdfd;
 
 }
 
@@ -138,7 +140,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #f4f4f5;
 }
 .menu-acessibilidade{
     position: fixed;
